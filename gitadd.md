@@ -1,6 +1,6 @@
 # git add command #
 
-* Add a particular file to the staging area. It will shows you tracked and untracked files and changes.
+* Add a particular file to the staging area. 
 * The add command marks changes to to be included in the next commit.
 
 ```
