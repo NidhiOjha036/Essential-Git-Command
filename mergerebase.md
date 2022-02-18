@@ -1,4 +1,4 @@
-# Megre vs Rebase
+# Merge vs Rebase
 * The first thing to understand about git rebase is that it solves the same problem as git merge.
 * Both of commands are designed to integrate changes from one branch into another branch --- the just do it in very different ways.
 # The Merge Option
