@@ -18,3 +18,5 @@ Create a new commit from changes added to the staging area.
 The commit must have a message!
 
 ```
+//show the repository status
+git status
